@@ -8,7 +8,6 @@ This project explored the effect of the pandemic on children and young people's 
 
 * The final data story can be found [here](https://www.nuffieldtrust.org.uk/public/files/2022-01/growing-problems/#1).
 * Accompanying briefing is found [here](https://www.nuffieldtrust.org.uk/resource/growing-problems-in-detail-covid-19-s-impact-on-health-care-for-children-and-young-people-in-england).
-* The code is available [here](https://github.com/NuffieldTrust/QW-annual-statement-2021/ECDS -- CYP final.sas).
 
 # Data sources
 Emergency Care Data Set (ECDS) years 2019 to 2021. Copyright © 2022, re-used with the permission of NHS Digital. All rights reserved.
