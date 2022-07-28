@@ -13,4 +13,4 @@ This project explored the effect of the pandemic on children and young people's 
 Emergency Care Data Set (ECDS) years 2019 to 2021. Copyright © 2022, re-used with the permission of NHS Digital. All rights reserved.
 
 # License
-This project is licensed under the [MIT License](https://github.com/NuffieldTrust/
+This project is licensed under the [MIT License](https://github.com/NuffieldTrust/QW-annual-statement-2021/LICENSE).
